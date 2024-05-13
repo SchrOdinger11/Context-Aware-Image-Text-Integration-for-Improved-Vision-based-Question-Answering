@@ -1,0 +1,98 @@
+{
+    "info": {
+        "description": "This is v2.0 of the VQA dataset.",
+        "url": "http://visualqa.org",
+        "version": "2.0",
+        "year": 2017,
+        "contributor": "VQA Team",
+        "date_created": "2017-04-26 17:00:44"
+    },
+    "license": {
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "name": "Creative Commons Attribution 4.0 International License"
+    },
+    "data_subtype": "val2014",
+    "annotations": [
+        {
+            "question_type": "none of the above",
+            "multiple_choice_answer": "down",
+            "image_id": 262148,
+            "answer_type": "other",
+            "question_id": 262148000,
+            "question": "Where is he looking?"
+        },
+        {
+            "question_type": "what are the",
+            "multiple_choice_answer": "watching",
+            "image_id": 262148,
+            "answer_type": "other",
+            "question_id": 262148001,
+            "question": "What are the people in the background doing?"
+        }, 
+         {
+            "question_type": "what is",
+            "multiple_choice_answer": "picnic table",
+            "image_id": 262148,
+            "answer_type": "other",
+            "question_id": 262148002,
+            "question": "What is he on top of?"
+        },
+        {
+            "question_type": "what",
+            "multiple_choice_answer": "foodiebakercom",
+            "image_id": 393225,
+            "answer_type": "other",
+            "question_id": 393225000,
+            "question": "What website copyrighted the picture?"
+        },
+        {
+            "question_type": "is this a",
+            "multiple_choice_answer": "no",
+            "image_id": 393225,
+            "answer_type": "yes/no",
+            "question_id": 393225001,
+            "question": "Is this a creamy soup?"
+        },
+        {
+            "question_type": "is this",
+            "multiple_choice_answer": "yes",
+            "image_id": 393225,
+            "answer_type": "yes/no",
+            "question_id": 393225002,
+            "question": "Is this rice noodle soup?"
+        },
+        {
+            "question_type": "what is",
+            "multiple_choice_answer": "chopsticks",
+            "image_id": 393225,
+            "answer_type": "other",
+            "question_id": 393225003,
+            "question": "What is to the right of the soup?"
+        },
+        {
+            "question_type": "what is the man",
+            "multiple_choice_answer": "walking",
+            "image_id": 393226,
+            "answer_type": "other",
+            "question_id": 393226000,
+            "question": "What is the man doing in the street?"
+        },
+        {
+            "question_type": "how many",
+            "multiple_choice_answer": "1",
+            "image_id": 393226,
+            "answer_type": "number",
+            "question_id": 393226001,
+            "question": "How many photo's can you see?"
+        },
+        {
+            "question_type": "what does the",
+            "multiple_choice_answer": "ice cream",
+            "image_id": 393226,
+            "answer_type": "other",
+            "question_id": 393226002,
+            "question": "What does the truck on the left sell?"
+        }
+    ],
+    "data_type": "mscoco"
+}
