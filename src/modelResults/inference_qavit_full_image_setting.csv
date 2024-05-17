@@ -1,0 +1,901 @@
+image_id,question,answer_type,expected_answer,generated_answer
+262189,How many signs?,number,4,4
+262189,What color is the Salisbury Rd. sign?,other,white,4
+164,How many paper towel rolls?,number,1,1
+164,What is the color of the refrigerator?,other,white,1
+164,Is the light on?,yes/no,no,1
+164,What color is the wall?,other,white,1
+283,What is the brand of wine?,other,cupcake,wine
+283,What drink is shown?,other,wine,wine
+283,What is the table made of?,other,glass,wine
+283,What is in the cup?,other,wine,wine
+283,What is this bottle?,other,wine,wine
+283,What color is the chair in the background?,other,tan,wine
+283,Is this a high quality bottle of wine?,yes/no,yes,wine
+21900,Is the rider a child or an adult?,other,adult,no
+21900,Is the wide gate on hinges?,yes/no,yes,no
+21900,Is the horse jumping?,yes/no,no,no
+21900,Is the man wearing a helmet?,yes/no,yes,no
+21900,What color is the blanket that lays on the horses back?,other,white,no
+397,What is the leafy substance?,other,basil,pizza
+397,What country did this food originate from?,other,italy,pizza
+397,What food item is shown?,other,pizza,pizza
+393777,Is a children's show on TV?,yes/no,no,no
+393777,How many chairs are there?,number,1,no
+393777,Is the boy interested in the stuff he is holding?,yes/no,no,no
+393777,What is in the upper corner of the room?,other,curtains,no
+393777,Is the room clean or messy?,other,messy,no
+393777,Is there a baby?,yes/no,yes,no
+699,Are there any people?,yes/no,no,yes
+699,Is there a stoplight in the pic?,yes/no,yes,yes
+699,What color is the streak?,other,red,yes
+393995,What is the cat sitting in?,other,window,yes
+393995,Is the cat in front of a window?,yes/no,yes,yes
+393995,What is around the cat's neck?,other,collar,yes
+394131,Is the plane getting ready to take off?,yes/no,yes,yes
+394131,Is it raining in the picture?,yes/no,no,yes
+394131,What is wrote on the side of the plane?,other,lufthansa,yes
+394131,What airline is advertised on the side of the aircraft?,other,lufthansa,yes
+394131,Do planes travel through the earth's atmosphere?,yes/no,yes,yes
+263288,What color are the scissor handles?,other,red,red
+263288,What kind of supplies are here?,other,office,red
+263288,What does the scissors represent on  top of the merchandise?,other,cutting,red
+1171,Is this train engine old?,yes/no,yes,yes
+1171,Is it evening?,yes/no,yes,yes
+1171,What number is on the train?,number,71,yes
+263403,Is this an advertisement?,yes/no,yes,yes
+263403,Is it raining or is it sunny?,other,sunny,yes
+263403,Is the surfer high on the wave?,yes/no,yes,yes
+263520,Does this appear to be taken in a zoo?,yes/no,no,no
+263520,What is growing in the background?,other,trees,no
+263520,What kind of animal is this?,other,giraffe,no
+263520,What is the animal?,other,giraffe,no
+524535,Are these chicken eggs?,yes/no,no,donut
+524535,What color icing is on the doughnuts?,other,white,donut
+524535,What pastry is being made?,other,donuts,donut
+1626,What material is most dominant in texture in this picture?,other,wood,wood
+1626,Are there flowers in the room?,yes/no,yes,wood
+1852,What color is the hair?,other,white,white
+1852,What kind of flower is that?,other,rose,white
+1852,What color is the string?,other,white,white
+133087,Are there any people in the picture?,yes/no,no,no
+133087,Is there a stadium in the picture?,yes/no,no,no
+133087,Is the stop light green?,yes/no,no,no
+133087,What color is the street light?,other,white,no
+133087,Are there any cars in this photo?,yes/no,no,no
+526368,How many cords are on the laptop?,number,1,1
+526368,What color are the keys?,other,white,1
+133161,What does the sticker say?,other,sunkist,2
+133161,What type of fruit has labels?,other,oranges,2
+133161,Why are there stickers on the oranges?,other,barcodes,2
+133161,Are there lemons also?,yes/no,yes,2
+133161,Where are these oranges from?,other,florida,2
+133161,How many oranges have a sticker?,number,2,2
+395452,What is on the plate?,other,food,no
+395452,Is the food burnt?,yes/no,no,no
+395452,What color is the dish the food is in?,other,green,no
+395452,Would this meal typically be served at breakfast?,yes/no,no,no
+395452,What is green?,other,plate,no
+2302,What color is the backpack?,other,red,red
+2302,How many horses are shown?,number,2,red
+2302,Is the lead person wearing a blue cap?,yes/no,yes,red
+2302,Are they on a mountain top?,yes/no,yes,red
+264769,How many spools of thread are there?,number,1,yes
+264769,What color is the tin?,other,blue,yes
+264769,Do you see scissors?,yes/no,yes,yes
+264769,What color are the candles?,other,blue,yes
+264769,What is the person cutting?,other,string,yes
+264769,Are the scissors open or closed?,other,closed,yes
+264769,What material is the handle of the scissors made of?,other,metal,yes
+264769,Is somebody sewing?,yes/no,yes,yes
+264769,What color are the pliers?,other,red,yes
+133698,Is that marshmallows on top of the pizza?,yes/no,no,no
+133698,Is this a split pizza order?,yes/no,yes,no
+133698,Is this pizza round?,yes/no,no,no
+133969,Are the batter and catcher on the same team?,yes/no,no,4
+133969,How many people are sitting on bucket?,number,4,4
+3084,What color is the clock?,other,black,yes
+3084,What time is it?,number,12:32,yes
+3084,Is this clock on a building?,yes/no,yes,yes
+3145,Are there any blinds on the windows?,yes/no,yes,yes
+3145,Are there any lights on?,yes/no,yes,yes
+3145,Is the floor clean?,yes/no,yes,yes
+3145,Do the windows have blinds or shades?,other,shades,yes
+3145,Does a housekeeper clean these rooms?,yes/no,no,yes
+134386,How many fingers is she holding up?,number,5,coffee
+134386,What kind of drink is pictured on the wall?,other,coffee,coffee
+134386,Are the candles lit?,yes/no,yes,coffee
+134386,What is the woman holding?,other,cake,coffee
+527631,What kind of sandwich is this?,other,beef,no
+527631,What is there to eat besides the sandwich?,other,fries,no
+527631,Is the plate round?,yes/no,yes,no
+527631,Are the two half's equal?,yes/no,no,no
+527631,What kind of food is this?,other,sandwich,no
+527631,Is there lettuce in the sandwich?,yes/no,no,no
+527631,Will the sandwich eat the fries?,yes/no,no,no
+527631,What is featured on the dinner plate?,other,sandwich,no
+527631,How many slices of cheese are on this?,number,1,no
+527631,What is the utensil on the plate?,other,none,no
+527631,Is this an authentic Philly steak and cheese?,yes/no,yes,no
+527631,What meat is in the sandwich?,other,beef,no
+265635,Is this woman pooping?,yes/no,no,no
+265635,How many women are shown?,number,1,no
+265635,What is the woman looking at?,other,camera,no
+265635,What is she standing upon?,other,map,no
+265742,What is the animal shown?,other,elephant,elephant
+265742,Where are the trees?,other,forest,elephant
+265742,Has this elephant been trained?,yes/no,no,elephant
+265742,What is this animal?,other,elephant,elephant
+265742,Does this animal have tusks?,yes/no,yes,elephant
+265742,What is the elephant standing on?,other,ground,elephant
+265777,What color are the glasses?,other,green,green
+265777,Is there food on the table?,yes/no,yes,green
+265777,What color is the her shirt?,other,red,green
+265879,What color is the shirt that says America?,other,black,black
+265879,Is the man drinking wine?,yes/no,yes,black
+528030,Is the man wearing glasses?,yes/no,no,no
+528030,Is this man dressed formal?,yes/no,yes,no
+528030,What color is this man's tie?,other,blue,no
+266021,What surface are they standing on?,other,sand,ssssssss
+266021,What are the people holding?,other,parachute,ssssssss
+266021,How many people are holding the sail?,number,2,ssssssss
+397109,What is the bench facing?,other,lake,no
+397109,Can you see the reflection of the bench in the water?,yes/no,no,no
+397109,Anyone on the bench?,yes/no,no,no
+22498,Is the man holding a sail?,yes/no,yes,yes
+22498,What color is the sky?,other,blue,yes
+22498,What color is the water?,other,blue,yes
+266176,What color is the vase?,other,clear,yes
+266176,How many types of fruits are shown?,number,1,yes
+266176,What brand is the plastic container?,other,tupperware,yes
+266176,Is this a messy room?,yes/no,yes,yes
+266176,What is the yellow object?,other,bananas,yes
+266176,Are the bananas ripe?,yes/no,yes,yes
+266176,What color is the envelope?,other,white,yes
+4069,Is this tow man?,yes/no,no,2
+4069,How many bikes are there in the picture?,number,2,2
+4069,What's visible in the background?,other,trees,2
+4069,Is someone looking at the camera?,yes/no,yes,2
+266562,How many hot dogs are there?,number,3,3
+266562,Would a vegetarian eat these?,yes/no,no,3
+372161,How many zebra are standing next to each other?,number,2,no
+372161,Is there a zebra behind the front two?,yes/no,yes,no
+372161,Are the zebras twins?,yes/no,no,no
+372161,What color is the road?,other,brown,no
+372161,Do these animals appear to be distressed?,yes/no,no,no
+372161,Is this a color photo?,yes/no,yes,no
+372161,Are these animals grazing?,yes/no,no,no
+372161,Are all the animals grazing?,yes/no,no,no
+153717,What color is the Frisbee?,other,yellow,beer
+153717,What is the man holding in his hand?,other,beer,beer
+267175,What is hanging from the roof?,other,lights,no
+267175,Which room is this?,other,office,no
+267175,Do the walls appear to be curved?,yes/no,no,no
+267175,Is this an industrial setting?,yes/no,yes,no
+267175,Is the chair an office chair or a kitchen table chair?,other,office,no
+267175,How many luggage pieces do you see?,number,0,no
+267175,Is this a cubicle?,yes/no,yes,no
+267175,How many screens are there?,number,2,no
+267175,What is this man's job?,other,it,no
+267175,Is this a restaurant?,yes/no,no,no
+136328,What type of fabric is the hat made of?,other,corduroy,yes
+136328,Is the girl posing for the picture?,yes/no,yes,yes
+136328,Is there hair on her shirt?,yes/no,yes,yes
+136355,What kind of flowers are in the vase?,other,tulips,tul
+136355,What is the color of the flowers?,other,red,tul
+136355,Are these tulips grown in the home garden or bought from the store?,other,store,tul
+136355,How many plants are there?,number,4,tul
+136355,What color are the flowers on the wall?,other,green,tul
+136355,What is on the table?,other,flowers,tul
+136355,Is there more than one type of flower?,yes/no,no,tul
+136355,What is made of wood?,other,table,tul
+136355,How many flowers are on the counter?,number,6,tul
+136355,Is there only one flower?,yes/no,no,tul
+529636,What number is the small hand on?,number,2,2
+529636,How many clocks?,number,2,2
+529636,Is the picture taken from above or below?,other,below,2
+529636,How many clocks are on the tower?,number,2,2
+529636,What time does this clock read?,number,2:10,2
+267664,What time of day is this?,other,afternoon,red
+267664,What animal is beside the red chair?,other,cat,red
+267664,What color is the chair?,other,red,red
+267664,Is there a television in the room?,yes/no,no,red
+136600,What brand of laptop is on the desk?,other,apple,no
+136600,Is the laptop on?,yes/no,yes,no
+136600,How many computing devices are present?,number,1,no
+136600,Does the candle match or clash with the colors on the wall?,other,match,no
+136600,What brand is the desktop computer?,other,apple,no
+136600,What is sitting on the screen?,other,website,no
+136600,Are the candles too close to the laptop?,yes/no,no,no
+136600,How many jars are in the picture?,number,3,no
+136600,How many computers are shown?,number,1,no
+5600,Is that some ham?,yes/no,no,no
+5600,What type of utensil appears next to the food?,other,spoon,no
+5600,What vegetable is shown here?,other,onion,no
+5600,What are the bowls made out of?,other,metal,no
+529917,Are these people waiters?,yes/no,yes,ties
+529917,How many people are in this picture?,number,8,ties
+529917,What clothing accessory are all of these servers wearing around their necks?,other,ties,ties
+529917,What color ties?,other,black,ties
+530013,Which team is the home team?,other,cardinals,baseball
+530013,What game are they playing?,other,baseball,baseball
+441009,What is the girl sitting on?,other,horse,no
+441009,Are all the people in this picture girls?,yes/no,no,no
+441009,What is the number of the girl in the black hat?,number,13,no
+137003,Is the girl having fun with her kite?,yes/no,yes,yes
+137003,What structure is over the girl's left shoulder?,other,kite,yes
+137003,What color is the girl's shirt?,other,pink,yes
+328730,Which man is dressed more casually?,other,right,yes
+328730,What are the men holding?,other,beer,yes
+328730,Are the men young?,yes/no,yes,yes
+328730,Is anyone in the picture wearing eyeglasses?,yes/no,no,yes
+328730,Are all men wearing ties?,yes/no,no,yes
+328730,Are the men clean shaven?,yes/no,yes,yes
+328730,How many people are here?,number,7,yes
+328730,Is everyone having a beer?,yes/no,yes,yes
+328730,Is the lady wearing earrings?,yes/no,yes,yes
+399542,How many zebras are in the photograph?,number,2,30
+399542,Is this zebra looking for food?,yes/no,no,30
+399542,How many lines are on the zebras?,number,30,30
+399542,Where is this Zebra walking?,other,road,30
+530652,Is that a frog?,yes/no,no,red
+530652,Who is flying the kite?,other,man,red
+530652,Does the kite have a tail?,yes/no,yes,red
+530652,Where is this?,other,park,red
+530652,What color is his hat and jacket?,other,red,red
+530652,Where do you usually find sharks?,other,ocean,red
+268725,Is this rider going around a sharp corner?,yes/no,no,no
+268725,Is the background in focus?,yes/no,no,no
+268725,Will the motorcycle fall over?,yes/no,no,no
+268725,What is this guy doing?,other,wheelie,no
+268725,Can you see this rider's eyes?,yes/no,no,no
+268770,What is forbidden according to the sign?,other,littering,$200
+268770,What is not allowed according to the sign?,other,littering,$200
+268770,What does the sign say?,number,$200,$200
+268966,How many doughnuts are they?,number,1,no
+268966,Was this photo taken outdoors?,yes/no,no,no
+6845,Are there any animals on the shore?,yes/no,no,yes
+6845,What type of animal is pictured?,other,cow,yes
+6845,How many cows are there?,number,2,yes
+6845,Are the animals in the water?,yes/no,yes,yes
+6845,What is the animal standing on?,other,water,yes
+138078,Where is this person located?,other,field,yes
+138078,What is the primary color of the uniforms?,other,red,yes
+138078,Is the boy waiting for the ball to come to him?,yes/no,yes,yes
+138078,Do the trees have leaves?,yes/no,yes,yes
+138078,What color is the boy's shoes?,other,red,yes
+138078,Is the player right or left handed?,other,left,yes
+138078,Is the boy playing the infield or outfield?,other,outfield,yes
+138078,Does the player catch with his left or right hand?,other,right,yes
+459922,Is the animal pooping?,yes/no,yes,cow
+459922,What color is truck?,other,black,cow
+459922,What is crossing the road?,other,cow,cow
+459922,What kind of car is this?,other,suv,cow
+269196,Are the sheep tagged?,yes/no,yes,no
+269196,Are these sheep raised for wool?,yes/no,yes,no
+269196,Is the wire barbed?,yes/no,no,no
+531967,What is the woman sitting on?,other,counter,yes
+531967,Is there a toaster oven in the picture?,yes/no,yes,yes
+532007,Are they on the beach?,yes/no,yes,yes
+532007,How many horses are there?,number,3,yes
+532007,Are they equestrians?,yes/no,yes,yes
+401092,How many drinks are on the table?,number,2,2
+401092,Are those pickles or cucumbers?,other,cucumbers,2
+401092,What on the plate?,other,sandwich,2
+401092,What color is the cheese?,other,yellow,2
+532426,What is the dog sitting in?,other,sidecar,motorcycle
+532426,What kind of dog is it?,other,poodle,motorcycle
+532426,What color is the animal?,other,white,motorcycle
+532426,What is the dog tied to?,other,motorcycle,motorcycle
+532426,How many parking meters are shown?,number,2,motorcycle
+8191,How are the men dressed?,other,swimsuits,brown
+8191,How many people are in the center of the photo?,number,6,brown
+8191,What color hair does the boy on the right have?,other,brown,brown
+8191,Where are the people surfing?,other,lake,brown
+8191,What is the date on the picture?,number,7/30/2006,brown
+8191,What's the building in the background?,other,boathouse,brown
+219820,Is this picture considered well taken?,yes/no,yes,yes
+219820,Is the boat moving?,yes/no,yes,yes
+219820,Is it fall?,yes/no,yes,yes
+532568,How many stop light?,number,4,yes
+532568,Is this the right atmosphere for Dracula?,yes/no,yes,yes
+532568,What kind of flag is flying?,other,american,yes
+270708,Is her hair in a bun?,yes/no,yes,yes
+270708,What sport is shown here?,other,tennis,yes
+8721,Which screen seems to show Facebook?,other,none,no
+8721,What is on the computer?,other,pictures,no
+8721,Is the laptop on?,yes/no,no,no
+8721,How many monitors are on the desk?,number,3,no
+8721,Are all the computers on?,yes/no,no,no
+8721,How many keyboards are shown?,number,2,no
+8721,How many monitors are turned on?,number,2,no
+8721,What is the color of the book?,other,yellow,no
+8721,Are both of these computer monitors turned on?,yes/no,no,no
+8749,How many slices of pizza were eaten?,number,0,tray
+8749,What is the pizza on?,other,tray,tray
+8749,Name this pizza?,other,margarita,tray
+270908,What is the most likely reason as to why this guy is laid out on the ground?,other,tired,ball
+270908,What is on his shirt?,other,ball,ball
+533137,What type of sign is that?,other,map,skiing
+533137,What activity are the people participating in?,other,skiing,skiing
+503978,What color is the pasta?,other,orange,yes
+503978,What is green dish on left top?,other,broccoli,yes
+503978,Is this a healthy meal?,yes/no,yes,yes
+503978,What are the objects on the large white platter on the left?,other,broccoli,yes
+503978,Can a vegan eat this food?,yes/no,yes,yes
+503978,Is the plate a solid color?,yes/no,yes,yes
+503978,What color is the bowl?,other,white,yes
+503978,What type of food is this?,other,pasta,yes
+9270,What dessert is on the girl's shirt?,other,cake,cake
+9270,What is the girl doing?,other,eating,cake
+9270,What color is the utensil the kid will be using?,other,white,cake
+9270,What is the girl eating?,other,cake,cake
+402626,Are they eating the grass?,yes/no,no,no
+402626,Are the sheeps posing for the camera?,yes/no,no,no
+402626,What color is the grass?,other,green,no
+402626,Are the sheep in danger?,yes/no,no,no
+402626,What color is the sheep?,other,white,no
+271680,Are there any animals in this image?,yes/no,yes,yes
+271680,Are the cats in the window real?,yes/no,yes,yes
+9721,What letters are shown on the keyboard?,other,yulghjbnm,gray
+9721,What is the primary color of the keyboard?,other,white,gray
+9721,What color is the scrolling wheel on the mouse?,other,gray,gray
+403078,Who does the equipment belong too?,other,man,we
+403078,What kind of outfit is the man wearing?,other,wetsuit,we
+403078,What is on the man's body?,other,wetsuit,we
+403078,What is on the man's wrist?,other,wetsuit,we
+403078,Are these guys going in the water?,yes/no,yes,we
+403078,What is this man riding on?,other,surfboard,we
+403107,Is the computer on?,yes/no,yes,7
+403107,How many black keys are on the keyboard?,number,7,7
+272153,What color is the dog?,other,tan,yes
+272153,What type is the dog in the picture?,other,retriever,yes
+272153,What kind of landscape is this?,other,beach,yes
+272153,Is the dog going for a walk on the beach?,yes/no,yes,yes
+272153,What is behind the people?,other,water,yes
+272153,Is it cloudy?,yes/no,yes,yes
+272153,What is the man in this picture doing?,other,walking,yes
+272153,What is the guy carrying?,other,surfboard,yes
+403255,What is the main color of the boat?,other,white,boat
+403255,What country's flag is on the boat?,other,sweden,boat
+403255,What is the man riding?,other,boat,boat
+403255,What is the man doing?,other,boating,boat
+403255,What type of engine does the boat have?,other,outboard,boat
+272518,How many colors are in the ropes on each horse?,number,2,winter
+272518,What time of the year is it?,other,winter,winter
+220215,What color is the water?,other,blue,yes
+220215,Does the building have lots of windows?,yes/no,yes,yes
+220215,What are the people doing?,other,rowing,yes
+403862,What color is the train?,other,green,yes
+403862,What character is the train patterned after?,other,thomas,yes
+403862,Is there more than 1 person in the picture?,yes/no,yes,yes
+154721,Is the book open?,yes/no,yes,motorcycle
+154721,What color is the floor?,other,brown,motorcycle
+154721,What is pictured in the book?,other,motorcycle,motorcycle
+11320,Was this taken in the USA?,yes/no,yes,no
+11320,What do the wires carry?,other,bridge,no
+11320,Was this photo taken this century?,yes/no,no,no
+242189,Is the person tired?,yes/no,yes,square
+242189,What kind of footwear is she wearing?,other,sandals,square
+242189,The tiles are in what shape?,other,square,square
+535682,What is she looking at?,other,phones,phones
+535682,Are her toenails painted?,yes/no,yes,phones
+535682,Are the objects in her hand the same?,yes/no,yes,phones
+142562,What color is the grass?,other,green,green
+142562,What color is the horse?,other,brown,green
+536110,Are any beaks touching?,yes/no,no,yes
+536110,What are the birds on?,other,sky,yes
+536110,Sunny or overcast?,other,sunny,yes
+536110,Are the birds the same size?,yes/no,yes,yes
+536110,How many birds are flying?,number,6,yes
+536110,How many real wings in the sky?,number,12,yes
+536110,What type of birds are they?,other,seagulls,yes
+536110,Are these large birds?,yes/no,yes,yes
+536110,How many birds?,number,6,yes
+536110,How many feather on the wings?,number,50,yes
+536110,What's in the sky?,other,birds,yes
+536110,How many birds are shown?,number,6,yes
+536110,What is the bird on?,other,sky,yes
+536110,Are the birds sitting in a tree?,yes/no,no,yes
+536110,Does these birds have long legs?,yes/no,no,yes
+536110,How many birds are there?,number,6,yes
+536110,Where is the bird?,other,sky,yes
+536110,How many birds are in this photo?,number,6,yes
+536110,What color is the sky?,other,blue,yes
+536110,What kind of bird is it?,other,seagull,yes
+142919,What is the pizza on?,other,plate,yes
+142919,Is the pizza cooked?,yes/no,yes,yes
+142919,Name a pizza topping?,other,tomato,yes
+142919,Is this pizza cooked?,yes/no,yes,yes
+142919,What is one of the toppings on the pizza?,other,cheese,yes
+142919,What green vegetable is on the pizza?,other,arugula,yes
+142919,What is the green vegetable on the pizza?,other,basil,yes
+12016,Is it sunny?,yes/no,no,sky
+12016,What kind of trees are here?,other,palm,sky
+12016,Where is the light at?,other,sky,sky
+12016,What type of building is that?,other,wall,sky
+67569,Is the plane flying?,yes/no,no,no
+67569,Is the plane on grass?,yes/no,no,no
+67569,What kind of plane is pictured?,other,seaplane,no
+12323,Is this bathroom under construction?,yes/no,yes,no
+12323,What is the position of the window?,other,closed,no
+12323,How many faucets do you see?,number,0,no
+12323,Do the room have a shower curtain?,yes/no,no,no
+12323,Is the lid down?,yes/no,no,no
+12323,Is the toilet tank open?,yes/no,no,no
+12323,Is it day time?,yes/no,yes,no
+12323,Is the toilet seat up or down?,other,up,no
+12323,How much toilet paper is left?,other,half,no
+12323,Where is the window in relation to the toilet?,other,above,no
+12323,How many rolls of toilet paper are in the bathroom?,number,2,no
+12323,Is the bathroom clean?,yes/no,yes,no
+12323,How many rolls of tissue are there?,number,2,no
+12323,Is there a lot of privacy here?,yes/no,no,no
+12323,Is the lid on the toilet down?,yes/no,no,no
+12323,Which way is the toilet paper roll facing?,other,up,no
+12323,Does this bathroom need painted?,yes/no,yes,no
+12323,Do people use that fancy toilet?,yes/no,yes,no
+12323,How would one flush the toilet?,other,handle,no
+12323,When is someone going to refill the toilet paper?,other,soon,no
+12323,Is a shower visible?,yes/no,no,no
+12323,How many rolls of toilet paper are on the top of the toilet?,number,1,no
+12323,Is there toilet paper?,yes/no,yes,no
+12323,Could this bathroom be used to change clothes?,yes/no,yes,no
+12323,Where is the tissue?,other,toilet,no
+12323,What color is the toilet paper?,other,white,no
+12323,What color is the toilet?,other,white,no
+143556,What are the people wearing on their heads?,other,helmets,yes
+143556,Is the person on the left a biker?,yes/no,yes,yes
+143556,What color is the bike?,other,red,yes
+405998,What number does the candle have on it?,number,4,no
+405998,Are there any animals on the cake?,yes/no,yes,no
+405998,Is the candle edible?,yes/no,no,no
+275449,Is there a TV in the photo?,yes/no,no,no
+275449,What type of wine?,other,red,no
+275449,Is the wine chilled?,yes/no,no,no
+275449,Is the ceiling light to the right or the left of the cat?,other,left,no
+144481,Who works here?,other,curator,no
+144481,What era are these vases from?,other,medieval,no
+144481,Are these vases for sale?,yes/no,no,no
+275661,Is the computer on or off?,other,on,blue
+275661,Why is the floor shiny?,other,yes,blue
+275661,What color is the lampshade?,other,blue,blue
+13550,How many elephants are seen?,number,1,infant
+13550,In what setting is the woman petting the elephant?,other,natural,infant
+13550,Is the main elephant an adult or an infant?,other,infant,infant
+406885,Is this a toy train?,yes/no,yes,yes
+406885,How many cars are on the train?,number,1,yes
+406885,Is the train on the tracks?,yes/no,yes,yes
+406885,Can a person ride this train?,yes/no,no,yes
+276057,Is the window open?,yes/no,no,yes
+276057,Is the woman in an office?,yes/no,no,yes
+276057,Are the blinds open?,yes/no,yes,yes
+407298,What is this boy holding?,other,baseball,yes
+407298,Did the boy just lose some teeth?,yes/no,yes,yes
+407298,What color shirt is he wearing?,other,blue,yes
+14167,Is the skateboarder wearing safety gear?,yes/no,no,no
+14167,Is there a fence in the picture?,yes/no,no,no
+14167,How many steps lead up to the buildings?,number,many,no
+14167,What is the building on the left made out of?,other,glass,no
+538513,What is this food?,other,pizza,paper
+538513,What kind of plate is it?,other,paper,paper
+538513,What is the plate sitting on?,other,table,paper
+407520,Where is the refrigerator?,other,kitchen,yes
+407520,Does the refrigerator have magnets on it?,yes/no,yes,yes
+407520,Are there curtains in this picture?,yes/no,yes,yes
+276528,How many different floral patterns can be seen?,number,3,wall
+276528,What is the color of the pillow on the bed?,other,white,wall
+276528,Where is a mirror?,other,wall,wall
+276969,What is walking in the background?,other,horses,no
+276969,Are these pigeons?,yes/no,no,no
+276969,Are they walking on a garden path?,yes/no,no,no
+276969,What color are the horses?,other,brown,no
+276969,Are these bears?,yes/no,no,no
+276969,What are these animals?,other,horses,no
+276969,Are there different type of animals here?,yes/no,no,no
+276969,How many dogs are in the picture?,number,0,no
+276969,Are the bears on the ground?,yes/no,no,no
+276969,What type of animal is this?,other,horse,no
+276969,Would you run if you saw them coming?,yes/no,no,no
+276969,Are there animals here?,yes/no,yes,no
+276969,Is this a wild horse?,yes/no,yes,no
+276969,Are there trees in the picture?,yes/no,yes,no
+276969,What is this animal?,other,horse,no
+276969,Where is the elephant?,other,forest,no
+276969,What animal is in the pic?,other,horses,no
+276969,What kind of tree is in the background?,other,pine,no
+276969,What kind of animal is shown?,other,horse,no
+276969,Where are the animals going?,other,grazing,no
+276969,How many horses?,number,5,no
+276969,Why should the photographer be on keen lookout?,other,horses,no
+408143,What color is the bike?,other,blue,no
+408143,Is there a mushroom in the picture?,yes/no,yes,no
+408143,Is the table dusty?,yes/no,no,no
+539224,What type of hat does the bear have?,other,crown,pole
+539224,What is holding the bear up?,other,nails,pole
+539224,Where is the teddy bear?,other,pole,pole
+91754,What kind of birds are these?,other,cranes,no
+91754,Do you see any water?,yes/no,no,no
+91754,Are there puddles on the ground?,yes/no,no,no
+91754,What season is it in the picture?,other,summer,no
+91754,What does this animal eat?,other,worms,no
+91754,Is there water nearby?,yes/no,no,no
+539413,How many people on bikes?,number,0,no
+539413,Does the ground look dry?,yes/no,no,no
+539413,What garment is the boy wearing over his yellow shirt?,other,jacket,no
+539413,How many umbrellas are there?,number,7,no
+539413,What color is the furthest umbrella?,other,blue,no
+539413,How many different patterns are seen?,number,2,no
+539413,Is anyone running?,yes/no,no,no
+539413,What is on the man's shirt?,other,rain,no
+539413,How many people are wearing blue jeans?,number,5,no
+539413,Do some people just like to walk in the rain?,yes/no,yes,no
+539678,Is the bear a cub?,yes/no,no,no
+539678,What is this bear doing?,other,sitting,no
+539678,What kind of animal is this?,other,bear,no
+539678,Is the bear cuddly?,yes/no,no,no
+373945,Is this a gourmet meal?,yes/no,no,no
+373945,What type of food is being prepared?,other,pizza,no
+373945,Is he cooking during the day?,yes/no,no,no
+461334,Does the player have sunglasses?,yes/no,yes,no
+461334,What color is the letter A on the man's cap?,other,yellow,no
+461334,Is anyone hatless?,yes/no,no,no
+461334,"Is this practice, or a real game?",other,practice,no
+461334,What letter is on the uniform?,other,a,no
+461334,What the man in the back leaning against?,other,bat,no
+408773,What is the pattern on his shirt called?,other,plaid,no
+408773,Is it raining?,yes/no,no,no
+408773,Is he wearing any visible skateboard gear?,yes/no,no,no
+408773,Is the person in a rural area?,yes/no,no,no
+15709,Is this an airport?,yes/no,yes,yes
+15709,What is written on the airplane's tail?,other,jetblue,yes
+15709,How many planes are on the tarmac?,number,3,yes
+15709,What company is on the plane?,other,jetblue,yes
+409523,What sport is the man in the water doing?,other,surfing,water
+409523,What time of year does this scene take place?,other,summer,water
+409523,What is the name of the photography company?,other,wp,water
+409523,What is on the ground?,other,water,water
+409523,Where are they located?,other,ocean,water
+409523,What is in the background?,other,water,water
+409523,How many large waves are seen?,number,1,water
+540619,Which side of the room has a window?,other,left,left
+540619,What is this room?,other,bathroom,left
+540619,What is laying on the floor?,other,cardboard,left
+409914,Is there a keyboard?,yes/no,no,no
+409914,How many TVs are shown?,number,1,no
+409914,Has the person on the screen ever run for president?,yes/no,no,no
+409914,What is next to the clock?,other,tv,no
+409914,What time is it?,number,11:35,no
+409914,What is on the TV screen?,other,show,no
+409914,What time does the screen say?,number,11:35,no
+409914,Is there a tv screen here?,yes/no,yes,no
+409914,Where is the TV?,other,ceiling,no
+409914,Why do the hands appear blurry?,other,television,no
+409914,What does the sign in front of the TV say?,other,velocidad,no
+409914,Are the numbers legible?,yes/no,yes,no
+409914,Is there a silver car in this picture?,yes/no,no,no
+409914,What color is the hair of the person on the TV?,other,black,no
+409914,What is the name of the man on the screen?,other,unknown,no
+409914,Who is the man on TV?,other,actor,no
+409914,Where is the white Styrofoam cup?,other,none,no
+409914,How many cats?,number,0,no
+409914,How many electronics devices do you see?,number,1,no
+410068,Is there a man in the picture?,yes/no,no,yes
+410068,What color umbrella does she have?,other,green,yes
+410068,Is she wearing boots?,yes/no,yes,yes
+410068,Is the lady walking in the crosswalk?,yes/no,yes,yes
+410068,What politician is featured on side of truck?,other,none,yes
+17182,What is written on the chalkboard?,other,nothing,6
+17182,How many books are on the desk?,number,6,6
+279407,What sport are they playing?,other,baseball,yes
+279407,Does the kid like playing this sport?,yes/no,yes,yes
+410533,Is the cat taking a shower?,yes/no,no,no
+410533,Is the water turned on?,yes/no,no,no
+410533,What kind of expression do you see on the cat?,other,bored,no
+410533,Would you normally find a cat in this position?,yes/no,no,no
+410533,What room is this?,other,kitchen,no
+24776,What color is the door?,other,green,no
+24776,Is the child crying?,yes/no,no,no
+24776,What color is her hair?,other,blonde,no
+199578,Is the bus fully occupied?,yes/no,no,yes
+199578,Is this in the daytime?,yes/no,no,yes
+199578,Does the bus have lights inside?,yes/no,yes,yes
+199578,What language is used on the signs?,other,english,yes
+279974,How many wires are in the tennis racket?,number,50,yes
+279974,Is this a professional tennis player?,yes/no,yes,yes
+279974,Is the man ready?,yes/no,yes,yes
+148957,Is this called half a dozen?,yes/no,yes,donut
+148957,What is in the box?,other,donuts,donut
+148957,How many doughnuts with sprinklers are there?,number,1,donut
+280560,What are the white lines for?,other,boundaries,boundaries
+280560,Is this person likely playing with someone else?,yes/no,yes,boundaries
+411674,What number is on the bus?,number,172,172
+411674,What number is this bus?,number,172,172
+411674,How many levels on bus?,number,2,172
+411674,How many windows on the side of the bus' second level?,number,6,172
+411765,Which foot does the man have planted forward?,other,right,no
+411765,Is he dancing?,yes/no,no,no
+374486,How many giraffes are there?,number,2,no
+374486,Are there any trees in the background?,yes/no,yes,no
+374486,Why can't you see the head of the giraffe in the background?,other,cropped,no
+281259,What color is the object approaching the boy?,other,yellow,no
+281259,What color is a helmet?,other,black,no
+281259,Is the boy going to hit an egg?,yes/no,no,no
+412658,What number player is at bat in this baseball game?,number,16,left
+412658,Is the batter probably left or right handed?,other,left,left
+412658,What color is the batter's shirt?,other,green,left
+281660,What is outside the window?,other,wall,yes
+281660,Are the markings graffiti?,yes/no,yes,yes
+281660,Is the seat in the photo brown?,yes/no,yes,yes
+19904,Are there any police officers around?,yes/no,yes,police
+19904,What kind of motorcycles are these?,other,police,police
+19904,What color are the flowers in the background?,other,blue,police
+282942,Is the woman married?,yes/no,yes,yes
+282942,What is the woman cutting?,other,cake,yes
+282942,Are there lights on the wall?,yes/no,yes,yes
+545155,Is it likely the rope is tied to a second horse?,yes/no,yes,no
+545155,Is the child wearing a helmet?,yes/no,no,no
+545155,Is he wearing a hat?,yes/no,no,no
+545155,How many trees are there?,number,6,no
+545155,Is this a cowboy?,yes/no,no,no
+152004,Is the vase indoors or outdoors?,other,outdoors,yes
+152004,Is the glass empty?,yes/no,yes,yes
+152004,How big is glass?,other,large,yes
+152004,Is the tree an evergreen?,yes/no,yes,yes
+283101,How many people are in the boat?,number,12,20
+283101,How many people do you think are on each boat?,number,20,20
+283101,What are the people doing in the boat?,other,rowing,20
+414212,What is behind the man?,other,curtain,bathroom
+414212,What is the man holding?,other,toothbrush,bathroom
+414212,Where is this man?,other,bathroom,bathroom
+414212,What is written on the man's shirt?,other,waialua,bathroom
+21310,How many kids in the picture?,number,3,3
+21310,What color is the shortest child's pants?,other,pink,3
+21310,What sport do these children play?,other,tennis,3
+414750,What number is in the picture?,number,40,1
+414750,What was someone cutting?,other,paper,1
+414750,How many pairs of scissors are in this picture?,number,1,1
+414750,Are the scissors well used?,yes/no,yes,1
+545867,How many baby animals are in this picture?,number,3,3
+545867,Are they in a zoo?,yes/no,no,3
+545867,Are these animals eating?,yes/no,yes,3
+545867,What material is covering the animal's pen?,other,hay,3
+545867,What is the squared shape in the background?,other,house,3
+415001,What color is the grass?,other,green,yes
+415001,Is the white lines fading?,yes/no,yes,yes
+415015,Are these dried flowers?,yes/no,yes,clear
+415015,Will the flowers get sunlight?,yes/no,yes,clear
+415015,What color is the vase?,other,clear,clear
+546219,Are these people eating breakfast?,yes/no,yes,no
+546219,Are these people all the same race?,yes/no,no,no
+546219,Is the Venetian blind open or closed?,other,open,no
+546219,What liquid is in the glasses?,other,coffee,no
+284160,How many colors are the busses?,number,4,no
+284160,What time of day is it?,other,afternoon,no
+284160,Are these people posing for a picture?,yes/no,no,no
+284160,What color is the bus?,other,red,no
+284160,Are there any windows open in the building?,yes/no,no,no
+284160,How many stories does this bus have?,number,2,no
+284160,Is the bus door closed?,yes/no,yes,no
+284160,Is this in America?,yes/no,no,no
+284160,Is this bus in a tropical location?,yes/no,no,no
+284160,How many levels is the bus?,number,2,no
+22090,Are these fruits good for you?,yes/no,yes,yes
+22090,Are there any people in the picture?,yes/no,no,yes
+22090,Is all the fruit citrus?,yes/no,no,yes
+265851,Where is the bear sitting on?,other,chair,10
+265851,How many hats are hanging on the wall?,number,10,10
+265851,What is the building made of?,other,brick,10
+546670,What does the child have on her feet?,other,sneakers,skateboard
+546670,Are both feet in place?,yes/no,no,skateboard
+546670,What is the girl riding?,other,skateboard,skateboard
+546670,What sport is the boy dressed for?,other,skateboarding,skateboard
+546670,What is on her head?,other,helmet,skateboard
+546674,Is there wine in the cooler in the background?,yes/no,yes,green
+546674,What color is the plant?,other,green,green
+546674,What type of plant is that?,other,bamboo,green
+153656,Is this toothbrush being used?,yes/no,no,no
+153656,What age group does the owner of the blue toothbrush belong to?,other,adult,no
+153656,Where are these items at?,other,bathroom,no
+153656,What letter is on the cup?,other,c,no
+153656,Is the toothbrush new?,yes/no,yes,no
+314396,"Are these ""golf"" objects aimed at targets or at holes on golf greens?",other,targets,targets
+314396,What word starts with I and ends in A?,other,innova,targets
+314396,What material is the table made of?,other,metal,targets
+571835,Is this cat young?,yes/no,yes,suitcase
+571835,What is the cat inside of?,other,suitcase,suitcase
+571835,What kind of cat is this?,other,tabby,suitcase
+154633,What kind of fruit is this?,other,banana,banana
+154633,How many purple leaves are on the tree?,number,6,banana
+154633,What would eat this kind of thing?,other,monkey,banana
+154633,Is the banana big?,yes/no,no,banana
+154633,What color are these?,other,purple,banana
+154846,What kind of vegetable is on the pizza?,other,mushroom,yes
+154846,What color is the plate?,other,white,yes
+154846,Is there cinnamon on the serving?,yes/no,no,yes
+154846,Is this finger food?,yes/no,yes,yes
+154846,What is the food?,other,pizza,yes
+154846,Are they sharing a pizza?,yes/no,yes,yes
+154846,Where is the food served?,other,home,yes
+154846,What vegetable is on the pizza?,other,mushrooms,yes
+154846,Is there meat on the pizza?,yes/no,yes,yes
+285992,What do you call the base part of this organism?,other,trunk,no
+285992,What is on the tree?,other,bird,no
+285992,What is this fruit called?,other,pear,no
+285992,Is there any fruit on this tree?,yes/no,no,no
+285992,Are the leaves brown or green?,other,green,no
+285992,What green fruit is shown?,other,apple,no
+285992,What time of season is it?,other,spring,no
+286313,Is the batter ready to bat?,yes/no,yes,right
+286313,Is this hitter right or left handed?,other,right,right
+286313,What kind of stain is on the batter's uniform?,other,dirt,right
+286313,Is the battery on the home or visitor team?,other,visitor,right
+286313,Is the batter facing the camera?,yes/no,yes,right
+286313,What sport is this?,other,baseball,right
+463670,What color is this dog's nose?,other,brown,no
+463670,Is this a sad dog?,yes/no,no,no
+463670,What kind of dog is this?,other,hound,no
+548498,Is this a clean or messy person?,other,messy,bowl
+548498,Where is the kitten?,other,bowl,bowl
+24391,What color is the ribbon?,other,orange,orange
+24391,Are these two men happy?,yes/no,yes,orange
+286719,What are the yellow fruit?,other,lemons,yes
+286719,How much are the carrots?,number,2.00,yes
+286719,What are the fruit and vegetables being stored in?,other,crates,yes
+286719,Is there a man wearing an apron?,yes/no,yes,yes
+286719,Do the orange things grow on trees?,yes/no,no,yes
+155885,Is this a docking area?,yes/no,yes,yes
+155885,Could this be a river?,yes/no,yes,yes
+155885,Why are all the birds white?,other,seagulls,yes
+287387,What is the bear drinking?,other,beer,tan
+287387,Is that a light beer label?,yes/no,no,tan
+287387,What kind of animal is this?,other,bear,tan
+287387,What is in front of the bear?,other,beer,tan
+287387,What color is the bear?,other,tan,tan
+25393,Which man is dressed more professionally?,other,right,right
+25393,Are the men wearing a tie?,yes/no,yes,right
+25393,Which man is taller?,other,left,right
+156626,Is there a vase?,yes/no,yes,no
+156626,Are the candles burning?,yes/no,no,no
+156626,Which bouquet is the largest?,number,middle,no
+156626,Are the roses open?,yes/no,no,no
+156626,What's painted on the egg?,other,bunny,no
+419216,Is the cafe crowded?,yes/no,yes,0
+419216,Is it a nice day outside?,yes/no,yes,0
+419216,Are people sitting outside?,yes/no,yes,0
+419216,How many bags of garbage are sitting on the sidewalk?,number,0,0
+550349,Is this a European bus?,yes/no,yes,no
+550349,Is the person getting on the bus?,yes/no,no,no
+550349,Is the bus door open?,yes/no,no,no
+288224,What is in the bowl?,other,chips,green
+288224,What color is the plate the sandwich is on?,other,green,green
+288224,What is the bowl made out of?,other,metal,green
+550514,How many rings are there?,number,5,yes
+550514,What event do the rings represent?,other,olympics,yes
+550514,Is someone wearing a banana suit?,yes/no,yes,yes
+26363,What is being road?,other,elephants,3
+26363,How many people are riding?,number,6,3
+26363,Is there water in the scene?,yes/no,yes,3
+26363,Does a guy or girl surf with these?,yes/no,no,3
+26363,Where are the elephants?,other,india,3
+26363,How many elephants?,number,3,3
+26363,Is the building in the image ancient?,yes/no,yes,3
+26363,How many elephants are there in the picture?,number,3,3
+26374,What color is the man's hair?,other,black,black
+26374,What color is his shirt?,other,blue,black
+26374,What is the name of this activity?,other,soccer,black
+157469,What animal is the child's chair designed to look like?,other,giraffe,no
+157469,Is the cat interested in the people's video games?,yes/no,no,no
+157469,Is there a child's carriage?,yes/no,yes,no
+26547,Is the toothbrush in water?,yes/no,yes,white
+26547,What color are the bristles?,other,white,white
+26564,What kind of room is this?,other,office,no
+26564,What is the flat screen monitor on the desk displaying?,other,work,no
+26564,What color are the mouses?,other,black,no
+26564,Do these items represent the cutting edge of technology?,yes/no,no,no
+26564,Are there a lot of cables in this image?,yes/no,yes,no
+26564,Are stationeries in the table?,yes/no,yes,no
+26564,What are the computers on top of?,other,desk,no
+26564,Do you see any holiday decoration?,yes/no,no,no
+26564,Are there headphone on the desk?,yes/no,no,no
+26624,What website is displayed on the photo?,other,wwwbyuencom,yes
+26624,Could these two be a same sex couple?,yes/no,yes,yes
+26624,What are the men doing?,other,smiling,yes
+157771,Where are the glasses?,other,pocket,blue
+157771,Is this man famous?,yes/no,yes,blue
+157771,What color is the man's tie?,other,blue,blue
+551167,What color is her shirt?,other,orange,no
+551167,Is the woman wearing a cap?,yes/no,no,no
+551167,Is the girl hair in a ponytail?,yes/no,no,no
+26907,Is the child athletic?,yes/no,yes,right
+26907,Is the boy interested in the stuff he is holding?,yes/no,yes,right
+26907,In which hand is the boy holding the ball?,other,right,right
+27146,Is this a hospital?,yes/no,no,yes
+27146,Is the kitchen cluttered?,yes/no,yes,yes
+27146,Is this a commercial kitchen?,yes/no,yes,yes
+27221,Is this a guy?,yes/no,no,no
+27221,Is the women standing or sitting?,other,sitting,no
+27221,What color is the flower pot?,other,gray,no
+551921,Is this person barefoot?,yes/no,yes,yes
+551921,What is the person standing on?,other,rocks,yes
+551921,How many people are shown?,number,1,yes
+158957,Is the man going to be doing any fishing?,yes/no,no,3
+158957,How many strings are attached to the pole the man is holding?,number,3,3
+158957,What is the man holding in his left hand?,other,sail,3
+552247,Is the coach proud of the girls?,yes/no,yes,yes
+552247,In what type of room was this picture taken?,other,gym,yes
+290231,What number is on this bike?,number,1,1
+290231,What color is the track?,other,black,1
+290231,What is the company in green on the bike?,other,castrol,1
+290231,How many motorcycles are there?,number,1,1
+290231,What number is on the sign?,number,1,1
+290231,Who is the sponsor?,other,castrol,1
+159451,What is the vehicle number?,other,w156,ssssssss
+159451,What brand is the vehicle?,other,stobart,ssssssss
+159451,What make is the truck?,other,stobart,ssssssss
+290602,What is the person holding?,other,snowboard,no
+290602,Are there any trees in this picture?,yes/no,no,no
+290602,Is the person floating?,yes/no,no,no
+290602,What color is the fence?,other,blue,no
+290602,Are there shadows in this scene?,yes/no,yes,no
+28506,Which device would you use to make some soup?,other,stove,stove
+28506,What is on the stove?,other,nothing,stove
+28506,Where is the soap?,other,windowsill,stove
+159736,Is this cake eaten?,yes/no,yes,square
+159736,Is this a gluten free dish?,yes/no,no,square
+159736,What is the shape of the dish the cake is on?,other,square,square
+159736,What kind of food is this?,other,cake,square
+290843,How many of the cats look comfortable?,number,1,no
+290843,Is this cat sleeping?,yes/no,no,no
+290843,What color are the cats eyes?,other,green,no
+290843,Does the kitty cat looked concerned?,yes/no,no,no
+290843,Is the cat using the shoes for a pillow?,yes/no,no,no
+290843,What color is the cat's eyes?,other,blue,no
+290843,What is the brand of the laptop?,other,dell,no
+290843,What is the cat doing?,other,sitting,no
+290843,Is the cat looking at the laptop?,yes/no,yes,no
+290843,Is there a remote beside the laptop?,yes/no,no,no
+290959,How many people are standing near the door?,number,2,2
+290959,What is the owner of the train?,other,amtrak,2
+290959,Can people see out the windows?,yes/no,yes,2
+160195,What color is this man's shirt?,other,white,skateboard
+160195,Are they both wearing white shirts?,yes/no,yes,skateboard
+160195,What are the people doing?,other,skateboarding,skateboard
+160195,What color is the man's backpack?,other,black,skateboard
+160195,Is there a water hydrant near the man?,yes/no,no,skateboard
+160195,What are the people riding?,other,skateboards,skateboard
+29125,What time of day was this picture taken?,other,dusk,no
+29125,What shape is the structure?,other,rectangle,no
+29125,What kind of tower is this?,other,clock,no
+29125,Are there six windows on this tower?,yes/no,no,no
+422391,What is inside the truck?,other,horse,horse
+422391,Is that a horse?,yes/no,yes,horse
+245162,What is parked outside?,other,bus,yes
+245162,What color is the big bus?,other,red,yes
+245162,Is there any traffic?,yes/no,yes,yes
+245162,What number is on the top of the bus?,number,266,yes
+245162,What is in front of the building?,other,bus,yes
+245162,Is this a busy street?,yes/no,no,yes
+245162,Is it going to rain?,yes/no,no,yes
+245162,What is written on the green sign?,other,0,yes
+245162,Is there smoke coming out of the chimney?,yes/no,no,yes
+245162,Does the street look busy?,yes/no,yes,yes
+245162,What are the primary colors on the sign attached to the red brick building?,other,red,yes
+245162,Is this entire picture in color?,yes/no,yes,yes
+245162,How many people are there on this photo?,number,2,yes
+245162,What is the color of the bus?,other,red,yes
+245162,How many vans are there?,number,1,yes
+245162,Where is the man with brown coat?,other,sidewalk,yes
+245162,Do you think cars are a primary form of transportation here?,yes/no,yes,yes
+245162,Is this close to water?,yes/no,no,yes
+245162,What is the background color on the sign that is just below the bus's rear window?,other,white,yes
+245162,What kind of product is on the bottom shelf?,other,coke,yes
+245162,Is the van white?,yes/no,no,yes
+245162,What is the number on the bus?,number,266,yes
+212309,What # is the catcher?,number,15,no
+212309,Is the player scoring a run?,yes/no,no,no
+212309,Is there a house behind the fence?,yes/no,yes,no
+212309,Are the men dancing?,yes/no,no,no
+212309,What color is the base on the right?,other,white,no
+398097,Is the hydrant open?,yes/no,no,no
+398097,What is beside the sidewalk?,other,hydrant,no
