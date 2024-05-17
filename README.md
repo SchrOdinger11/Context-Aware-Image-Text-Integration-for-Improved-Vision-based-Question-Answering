@@ -13,6 +13,8 @@ to specific queries.
 
 Install libraries from requirement.txt . Preferable to create a new conda environment.
 
+Python version for each approach should be <3.11
+
 ```bash
 pip install -r requirements.txt
 
