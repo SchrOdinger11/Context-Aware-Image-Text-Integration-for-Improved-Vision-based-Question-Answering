@@ -19,7 +19,9 @@ Python version for each approach should be <3.11
 pip install -r requirements.txt
 
 ```
-
+# Datasets:
+A. combined_data1.json: This json is pre-processed version of the complete dataset.
+B. filtered_dataForTest.json : This json file contains information of the validation dataset used for making inferences.
 # Requirements
 A. Create a folder in src directory with the name modelCheckpoints and this checkpoint [SAM MODEL CHECKPOINT ](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth)
 
