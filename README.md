@@ -61,6 +61,9 @@ D. **Approach 3**:
 E. **Baseline Model**: 
     - Run unsegmented images on `preTrainedVILT.ipynb`
 
+F. **Model Evaluation**: 
+    - Script `eval.py` is used to evaluate the accuracy of the results which are mentioned in the .csv files (taken from the models).
+
 
 
 ## Authors
