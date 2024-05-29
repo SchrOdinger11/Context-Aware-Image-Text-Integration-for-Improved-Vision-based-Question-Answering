@@ -2,7 +2,7 @@
 
 
 
-# Context-Aware Image-Text Integration for Improved Vision-based
+# Context-Aware Image-Text Integration for Improved Vision-based Language Models
 Exploring
 question-aware image-text integration techniques
 that prioritize relevant image features in response
