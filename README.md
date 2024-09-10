@@ -68,7 +68,7 @@ F. **Model Evaluation**:
 
 ## Authors
 
-- [@Sudhanshu Kulkarni](https://www.github.com/octokatherine)
+- [@Sudhanshu Kulkarni](https://github.com/SchrOdinger11)
 - [@Dhruvin Gandhi](https://www.github.com/dhruvin5)
 - [@Samveg Shah](https://www.github.com/Samveg12)
 - [@Dishant Padalia](https://www.github.com/dishant26)
